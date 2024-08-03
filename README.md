@@ -17,9 +17,7 @@
 
 🔄 Backward pass: Gradients computed using chain rule, weights updated accordingly
 
-🎯 Loss function: Cross-entropy loss for multi-class classification
-
-📏 Evaluation: Accuracy on test set, typically lower than more complex models but educational
+📏 Evaluation: Accuracy on test set is 82.5%
 
 🚀 Advantages: Simplicity, full control over implementation, deep understanding of neural network mechanics
 
